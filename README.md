@@ -1,2 +1,34 @@
-# Online-Food-Ordering-System-Python
-🍔 Online Food Ordering System is a fun Python 🐍 project that lets users view a food menu 🍽️, place orders 🛒, and generate a final bill 🧾. It uses functions and dictionaries to simulate a real-world food delivery experience, just like Zomato or Foodmandu! 🚀
+# 🍽️ Online Food Ordering System – Python Project
+
+A simple and interactive **Online Food Ordering System** that simulates food ordering like Zomato or Foodmandu. Users can view the menu, select food items, and generate a final bill. This project uses functions and dictionaries in Python to demonstrate a menu-driven application.
+
+---
+
+## 📌 Features
+
+- 📜 View Menu Items  
+- 🛒 Place Order from Menu  
+- 🧮 Automatically Calculate Total Price  
+- 🧾 Generate Bill with Item-wise Summary  
+
+---
+
+## 🧑‍💻 Technologies Used
+
+- Python 3.x
+- Dictionary for menu
+- Functions for modular design
+- Input/output handling
+
+---
+
+## 🗂️ Menu Structure
+
+```python
+menu = {
+    "Pizza": 250,
+    "Burger": 150,
+    "Momo": 100,
+    "Chowmein": 120,
+    "Fried Rice": 130
+}
